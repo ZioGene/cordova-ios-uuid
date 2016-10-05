@@ -7,7 +7,7 @@ This plugin allows you to generate a reasonably-persistent UUID for iOS by utili
 Add the plugin:
 
 ```sh
-cordova plugin add https://github.com/embarkmobile/cordova-ios-uuid
+cordova plugin add https://github.com/ZioGene/cordova-ios-uuid
 ```
 
 Use:
