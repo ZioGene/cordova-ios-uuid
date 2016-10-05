@@ -1,7 +1,7 @@
 # KSUUID
 
 ## Description
-This plugin allows you to generate a reasonably-persistent UUID for iOS by utilizing the keystore.
+This plugin allows you to generate a reasonably-persistent UUID for iOS by utilizing the keystore and is also compatible with iOS 10.
 
 ## Usage
 Add the plugin:
