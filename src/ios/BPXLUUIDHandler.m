@@ -104,7 +104,7 @@ static CFMutableDictionaryRef CreateKeychainQueryDictionary(void)
 	CFRelease(uuidRef);
 	NSString *uuid;
 	IF_ARC(
-		   uuid = (__bridge NSSTring *)uuidStringRef;
+		   uuid = (__bridge NSString *)uuidStringRef;
 		   ,
 		   uuid = [(NSString *)uuidStringRef autorelease];
 		   )
